@@ -1,0 +1,22 @@
+body {
+    background-color: coral;
+
+}
+
+.box {
+    background-color: chartreuse;
+    height: 100px;
+    width: 1000px;
+    display: flex;
+    justify-content: left;
+}
+
+.box2 {
+    display: flex;
+    justify-content: center;
+}
+
+.apple {
+    border: 3px;
+    border-radius: 10px;
+}
